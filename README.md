@@ -1,2 +1,2 @@
 # univ-projects
-Programs for college courses and stuff
+Repo for small programs and stuff for college subjects... and stuff
