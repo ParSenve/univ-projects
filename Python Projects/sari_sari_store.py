@@ -2,7 +2,7 @@
 total_price=0
 
 print("Theodore Skye G. Demonteverde | INF26B | Introduction To Computing FINAL Project")
-print("=-=ASOBI☆MAWARI-TAI! Sari-Sari Store!=-=")
+print("=-=MAWARI-TAI! Sari-Sari Store!=-=")
 #Loop for price input, ends when 0 is input
 while True:
     item_price = int(input("Enter item price: ₱"))
@@ -37,7 +37,7 @@ print("\n==User Receipt==")
 print("Subtotal: ₱",total_price)
 print("Cash Given: ₱", user_cash)
 print("Change: ₱",user_change)
-print("-=-=-=-=-=-=-=-=-=-=-=-=- \nThank you for shopping at ASOBI☆MAWARI-TAI!") 
+print("-=-=-=-=-=-=-=-=-=-=-=-=- \nThank you for shopping at MAWARI-TAI!") 
 
 '''
 START
